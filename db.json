@@ -1,0 +1,283 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Makanan"
+    },
+    {
+      "id": 2,
+      "nama": "Minuman"
+    },
+    {
+      "id": 3,
+      "nama": "Camilan"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Mie Setan lv.0",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "ms0.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Mie Setan lv.1",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "ms1.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Mie Setan lv.2",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "ms2.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Setan lv.3",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "ms3.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Setan lv.4",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "ms4.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Mie Setan lv.5",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "ms5.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Mie Iblis lv.0",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "mi0.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Mie Iblis lv.1",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "mi1.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Mie Iblis lv.2",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "mi2.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Mie Iblis lv.3",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "mi3.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Mie Iblis lv.4",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mi4.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Mie Iblis lv.5",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mi5.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Mineral Water",
+      "harga": 4000,
+      "is_ready": true,
+      "gambar": "mw.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Ice Tea",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "it.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Orange Juice",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "oj.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Udang Rambutan",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "ur.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Camilan"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "K-17",
+      "nama": "Udang Keju",
+      "harga": 11000,
+      "is_ready": true,
+      "gambar": "uk.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Camilan"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "total_bayar": 41000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Mie Setan lv.2",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ms2.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 7000,
+          "product": {
+            "id": 15,
+            "kode": "K-15",
+            "nama": "Orange Juice",
+            "harga": 7000,
+            "is_ready": true,
+            "gambar": "oj.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 22000,
+          "product": {
+            "id": 17,
+            "kode": "K-17",
+            "nama": "Udang Keju",
+            "harga": 11000,
+            "is_ready": true,
+            "gambar": "uk.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Camilan"
+            }
+          },
+          "keterangan": "tambahkan saus lebih banyak",
+          "id": 3
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
